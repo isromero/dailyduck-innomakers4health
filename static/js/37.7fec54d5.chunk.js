@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstacks=self.webpackChunkstacks||[]).push([[37],{37:(e,s,a)=>{e.exports=a.p+"static/media/charquito.aa7dee9b12e7e614fc5a.gif"}}]);

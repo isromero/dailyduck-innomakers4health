@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstacks=self.webpackChunkstacks||[]).push([[309],{309:(s,c,e)=>{s.exports=e.p+"static/media/duck.42db91e487ccac2db3b3.gif"}}]);
