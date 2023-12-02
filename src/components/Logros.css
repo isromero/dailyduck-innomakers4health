@@ -1,0 +1,16 @@
+.logros-page {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.logros-page {
+    padding: 0 5rem;
+}
+
+.logros-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    margin-top: 1rem;
+}

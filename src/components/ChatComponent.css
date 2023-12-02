@@ -1,0 +1,54 @@
+.chat-icon {
+    position: fixed;
+    bottom: 5rem;
+    right: 2rem;
+    width: 10rem;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.dialog-chat {
+    position: fixed;
+    bottom: 14.6rem;
+    cursor: pointer;
+    right: 7.4rem;
+    width: 10rem;
+    height: 5rem;
+    background-color: beige;
+    z-index: 2001;
+    border-radius: 10px; /* Ajusta el valor según tus preferencias */
+}
+
+.dialog-chat2 {
+    position: fixed;
+    bottom: 10rem;
+    left: 91rem;
+    width: 10rem;
+    height: 5rem;
+    background-color: beige;
+    z-index: 1001;
+    clip-path: polygon(0% 0%, 50% 0%, 55% 45%, 10% 0%);
+    /* clip-path: inset(0 0 0 0); Rectángulo original */
+}
+
+.dialog-chat .right-point {
+    
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -10px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent beige transparent transparent;
+}
+
+.dialog-chat p,
+.dialog-chat2 p {
+    font-family: "Segoe IU", sans-serif;
+    font-size: 0.9em;
+    padding: 0.7rem;
+    font-weight: bold; /* Texto en negrita */
+    text-align: center;
+}
