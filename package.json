@@ -2,7 +2,7 @@
   "name": "stacks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isromero.github.io/stack-medical-habits-app/",
+  "homepage": "https://isromero.github.io/dailyduck-innomakers4health/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",

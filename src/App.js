@@ -15,11 +15,11 @@ function App() {
     <div className="App">
     <Router>
       <Routes>
-        <Route path="/stack-medical-habits-app/" element={<HomePage />}/>
-        <Route path="/stack-medical-habits-app/calendar" element={<MyCalendar />}/>
-        <Route path="/stack-medical-habits-app/perfil" element={<Perfil />}/>
-        <Route path="/stack-medical-habits-app/logros" element={<Logros />}/>
-        <Route path="/stack-medical-habits-app/estadisticas" element={<Estadisticas />}/>
+        <Route path="/dailyduck-innomakers4health/" element={<HomePage />}/>
+        <Route path="/dailyduck-innomakers4health/calendar" element={<MyCalendar />}/>
+        <Route path="/dailyduck-innomakers4health/perfil" element={<Perfil />}/>
+        <Route path="/dailyduck-innomakers4health/logros" element={<Logros />}/>
+        <Route path="/dailyduck-innomakers4health/estadisticas" element={<Estadisticas />}/>
       </Routes>
     </Router>
       

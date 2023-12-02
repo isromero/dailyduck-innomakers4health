@@ -15,31 +15,31 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <ul>
-        <Link to="/perfil">
+        <Link to="/dailyduck-innomakers4health/perfil">
           <li>
             <FontAwesomeIcon icon={faUser} />
             <span>Perfil</span>
           </li>
         </Link>
-        <Link to="/">
+        <Link to="/dailyduck-innomakers4health/">
           <li>
             <FontAwesomeIcon icon={faStar} />
             <span>Roadmap</span>
           </li>
         </Link>
-        <Link to="/calendar">
+        <Link to="/dailyduck-innomakers4health/calendar">
           <li>
             <FontAwesomeIcon icon={faCalendar} />
             <span>Citas</span>
           </li>
         </Link>
-        <Link to="/estadisticas">
+        <Link to="/dailyduck-innomakers4health/estadisticas">
           <li>
             <FontAwesomeIcon icon={faChartBar} />
             <span>Estadísticas</span>
           </li>
         </Link>
-        <Link to ="/logros">
+        <Link to ="/dailyduck-innomakers4health/logros">
           <li>
             <FontAwesomeIcon icon={faTrophy} />
             <span>Logros</span>
