@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# 🚀 Daily Duck - Seguimiento y Gamificación de Hábitos 🦆
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Daily Duck es una aplicación diseñada para llevar la salud a un ámbito interactivo mediante el seguimiento y la gamificación de hábitos saludables. A continuación, se detallan aspectos clave de la aplicación:
 
-## Available Scripts
+## Solución al reto de Pfizer en la hackaton Innomakers4Health
 
-In the project directory, you can run:
+Proporcionamos a los usuarios una plataforma interactiva para el seguimiento y la mejora de sus hábitos diarios, utilizando técnicas de gamificación para hacer que el proceso sea atractivo y motivador.
 
-### `npm start`
+## Propuesta de Valor
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📊 Seguimiento personalizado de hábitos de salud.
+- 🎮 Gamificación para mejorar la adherencia y el cumplimiento.
+- 🔄 Plataforma interactiva para la mejora continua.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Ventaja Competitiva
 
-### `npm test`
+Nuestra aplicación se destaca por:
+- 🎯 Enfoque gamificado único.
+- 📈 Seguimiento personalizado y análisis de datos.
+- 👥 Colaboración con profesionales de la salud.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Canales
 
-### `npm run build`
+- 📲 Inbound Marketing a través de contenido en la web y blog.
+- 📧 Outbound Marketing con llamadas y correos electrónicos a médicos interesados.
+- 🎪 Participación en eventos de salud y bienestar.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Métricas Clave
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 📈 Número de usuarios activos.
+- 💡 Adherencia a hábitos.
+- 🔒 Retención de usuarios.
+- 🤝 Colaboraciones con profesionales de la salud.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Segmento de Clientes
 
-### `npm run eject`
+- 🙋‍♂️ Usuarios individuales interesados en mejorar su salud.
+- 👩‍⚕️ Profesionales de la salud en clínicas privadas.
+- ❤️ Pacientes con riesgo cardiovascular.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Problema
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ❌ Falta de seguimiento y motivación en la mejora de hábitos.
+- 💔 Riesgo cardiovascular no gestionado de manera efectiva.
+- 🚀 Necesidad de una solución interactiva y gamificada.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Estructura de Costes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- 💻 Desarrollo y mantenimiento de la aplicación.
+- 🤝 Soporte y atención al cliente.
+- 📣 Marketing y promoción.
 
-## Learn More
+## Flujo de Ingresos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 💳 Suscripciones mensuales para usuarios individuales.
+- 💼 Colaboraciones pagas con profesionales de la salud.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Alternativas
 
-### Code Splitting
+- **Malos Hábitos:** Aplicación de seguimiento general.
+- **Sedentarismo:** Enfocada en la promoción de la actividad física.
+- **Reventa cuentas:** Plataformas de reventa de servicios de salud.
+- **MN Program:** Software de gestión de pacientes.
+- **Gestión + seguimiento pacientes:** Plataformas de gestión de salud.
+- **Programa intensivo de control de factores de riesgo y ejercicio monitorizado:** Enfoque más especializado.
+- **Especialistas independientes:** Profesionales de salud independientes.
+- **Clínicas privadas:** Plataformas de gestión para clínicas.
+- **Gamificación seguir tratamiento:** Enfoque específico de gamificación.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Instrucciones de Instalación
 
-### Analyzing the Bundle Size
+Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clona este repositorio:
 
-### Making a Progressive Web App
+    ```bash
+    git clone https://github.com/amsteradri/stack-medical-habits-app.git
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+2. Accede al directorio de la aplicación:
 
-### Advanced Configuration
+    ```bash
+    cd daily-duck
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+3. Instala las dependencias:
 
-### Deployment
+    ```bash
+    npm install
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Uso
 
-### `npm run build` fails to minify
+Para iniciar la aplicación en modo de desarrollo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+npm start
+

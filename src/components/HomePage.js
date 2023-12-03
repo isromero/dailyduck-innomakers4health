@@ -326,7 +326,7 @@ const HomePage = () => {
       )}
   
       <div className="dialog-chat" onClick={handleChatClick}>
-        <p>Chatea con Ducky la IA sanitaria</p>
+        <p>Chatea con Ducky La IA sanitaria</p>
       </div>
       <div className="dialog-chat2"></div>
       <img src={require('../img/chat_icon.png')} className="chat-icon" alt="chat-icon" onClick={handleChatClick}/>
